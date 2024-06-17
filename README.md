@@ -27,14 +27,13 @@ Sunday                   317 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-srt                      4 mins              █████████████████████░░░░   85.51 % 
-Nix                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -50,7 +49,7 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 18:40:43 UTC
+ Last Updated on 17/06/2024 18:41:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
