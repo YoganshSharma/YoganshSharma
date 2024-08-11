@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2043%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,13 +27,14 @@ Sunday                   317 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     34 mins             ████████████████████████░   95.37 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -49,7 +50,7 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2024 18:41:16 UTC
+ Last Updated on 11/08/2024 18:43:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
