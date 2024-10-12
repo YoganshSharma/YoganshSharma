@@ -27,13 +27,13 @@ Sunday                   316 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -49,7 +49,7 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2024 18:46:13 UTC
+ Last Updated on 12/10/2024 18:44:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
