@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%204%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,13 +27,13 @@ Sunday                   307 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -49,7 +49,7 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2024 18:43:51 UTC
+ Last Updated on 28/10/2024 18:47:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
