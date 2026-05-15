@@ -1,7 +1,5 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%2054%20mins-blue?style=flat)
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -15,7 +13,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:54:49 UTC
+ Last Updated on 15/05/2026 20:43:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
