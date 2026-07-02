@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C071%20hrs%2059%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -27,17 +27,17 @@ Sunday                   667 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Rust                     2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Nix                      2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-QML                      2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Go                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Markdown                 3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.63 % 
+Nix                      2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+QML                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Rust                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 35 mins      █████████████████████████   100.00 % 
+Neovim                   9 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -53,7 +53,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 21:31:11 UTC
+ Last Updated on 02/07/2026 21:09:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
