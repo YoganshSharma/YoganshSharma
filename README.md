@@ -27,17 +27,17 @@ Sunday                   667 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Go                       1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Nix                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-QML                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Markdown                 1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Go                       1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Bash                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Nix                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+QML                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 49 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -53,7 +53,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 21:28:09 UTC
+ Last Updated on 08/07/2026 21:09:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
