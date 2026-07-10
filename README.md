@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2058%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -27,17 +27,17 @@ Sunday                   667 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-Go                       1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Nix                      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Bash                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Rust                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Go                       1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Markdown                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Nix                      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Bash                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+JavaScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 27 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -53,7 +53,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2026 21:23:23 UTC
+ Last Updated on 10/07/2026 21:00:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
