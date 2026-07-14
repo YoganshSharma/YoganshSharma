@@ -5,21 +5,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1451 commits        ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-🌆 Daytime                1139 commits        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-🌃 Evening                920 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-🌙 Night                  1497 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+🌞 Morning                1451 commits        ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+🌆 Daytime                1142 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+🌃 Evening                924 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+🌙 Night                  1499 commits        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   732 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Tuesday                  719 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Wednesday                828 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Thursday                 808 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Friday                   682 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Saturday                 571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Sunday                   667 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Monday                   736 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Tuesday                  723 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                829 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Thursday                 808 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Friday                   682 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Saturday                 571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Sunday                   667 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 ```
 
 
@@ -27,17 +27,17 @@ Sunday                   667 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   33.16 % 
-Go                       45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Rust                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Nix                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Markdown                 1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   39.73 % 
+Rust                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Go                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Typst                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 28 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -53,7 +53,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 21:04:25 UTC
+ Last Updated on 14/07/2026 20:57:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
