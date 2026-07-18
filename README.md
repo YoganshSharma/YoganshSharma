@@ -27,17 +27,13 @@ Sunday                   667 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 58 mins             ████████████░░░░░░░░░░░░░   47.95 % 
-Rust                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-JSON                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-jsonl                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -53,7 +49,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 19:42:32 UTC
+ Last Updated on 18/07/2026 19:44:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
