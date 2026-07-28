@@ -1,49 +1,5 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2014%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2029%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1451 commits        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-🌆 Daytime                1125 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-🌃 Evening                925 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-🌙 Night                  1499 commits        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   736 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Tuesday                  723 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Wednesday                821 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Thursday                 799 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Friday                   682 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Sunday                   668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -57,7 +13,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:06:57 UTC
+ Last Updated on 28/07/2026 20:04:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
